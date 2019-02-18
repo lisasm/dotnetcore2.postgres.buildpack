@@ -1,7 +1,7 @@
-# .NET Core 2.1 Buildpack for Heroku with Heroku Postgres
+# .NET Core 2.x Buildpack for Heroku with Heroku Postgres
 ## by Softtrends LLC
 
-This Buidpack can be used to compile and deploy ASP.Net Core Application, ASP.Net Core MVC Application to Heroku. It will pull the .NET Core dependencies from Microsoft, build a .NET Core Application and deploy it to the Heroku Platform by provisioning a free version of Heroku Postgres. You can use any version of Visual Studio to do the development, from the Free Visual Studio Code to the fully-featured Visual Studio Enterprise.
+This Buidpack can be used to compile and deploy ASP.Net Core Application, ASP.Net Core MVC Application to Heroku. It will pull the .NET Core dependencies from Microsoft, build a .NET Core Application and deploy it to the Heroku Platform by provisioning a free version of Heroku Postgres. You should use Visual Studio 2017 for best compatibility. Any tool from Visual Studio Code to the fully-featured Visual Studio Enterprise is supported.
 
 # References
 
